@@ -30,7 +30,7 @@ AuroraVault is a cloud-based photo storage platform designed to:
 ---
 ## Prototype
 
-1. [Login]([link-to-login-prototype-image](https://drive.google.com/file/d/1LD4UAmXL6x3EeEyshHP1A8iUNs36JWu1/view?usp=sharing))
+1. [Login]([https://drive.google.com/file/d/1LD4UAmXL6x3EeEyshHP1A8iUNs36JWu1/view?usp=sharing])
 2. [Sign Up]([link-to-signup-prototype-image](https://drive.google.com/file/d/1CCiUSzX4D7MD1_fOet1i3J6vI31lE3wk/view?usp=sharing))
 3. [Reset Password]([link-to-reset-password-prototype-image](https://drive.google.com/file/d/1_QY0oksTgewaDjHHWyJvhAF1yxt3-q1Q/view?usp=sharing))
 4. [Home Page]([link-to-home-page-prototype-image](https://drive.google.com/file/d/1ZlB2Z5oj4Y1E01kMJCWe840VItBlYMPT/view?usp=sharing))
@@ -62,10 +62,11 @@ AuroraVault is a cloud-based photo storage platform designed to:
 
 ---
 
-##Load Test
+## Load Test
 
 Load testing was done on 10k+ Concurrent users and the system scaled beatufically with 0% failure rate. The RPS was at 2300. I will be pushing this to 100k and later millions.
-[Losd Test]([link-to-load-test](https://drive.google.com/file/d/1LD4UAmXL6x3EeEyshHP1A8iUNs36JWu1/view?usp=sharing))
+
+---
 
 ## Future Enhancements
 - **End-to-End Encryption**: Encrypting photos before upload for added security.
