@@ -30,11 +30,11 @@ AuroraVault is a cloud-based photo storage platform designed to:
 ---
 ## Prototype
 
-1. ![Login]([https://drive.google.com/file/d/1LD4UAmXL6x3EeEyshHP1A8iUNs36JWu1/view?usp=sharing])
-2. [Sign Up]([link-to-signup-prototype-image](https://drive.google.com/file/d/1CCiUSzX4D7MD1_fOet1i3J6vI31lE3wk/view?usp=sharing))
-3. [Reset Password]([link-to-reset-password-prototype-image](https://drive.google.com/file/d/1_QY0oksTgewaDjHHWyJvhAF1yxt3-q1Q/view?usp=sharing))
-4. [Home Page]([link-to-home-page-prototype-image](https://drive.google.com/file/d/1ZlB2Z5oj4Y1E01kMJCWe840VItBlYMPT/view?usp=sharing))
-5. [Uploading]([link-to-home-page-prototype-image](https://drive.google.com/file/d/1_buvqC7SqtBEZiNhjrTaIV9gGV9_VdYM/view?usp=sharing))
+1. ![Login](https://drive.google.com/file/d/1LD4UAmXL6x3EeEyshHP1A8iUNs36JWu1/view?usp=sharing)
+2. ![Sign Up](https://drive.google.com/file/d/1CCiUSzX4D7MD1_fOet1i3J6vI31lE3wk/view?usp=sharing)
+3. ![Reset Password](https://drive.google.com/file/d/1_QY0oksTgewaDjHHWyJvhAF1yxt3-q1Q/view?usp=sharing)
+4. ![Home Page](https://drive.google.com/file/d/1ZlB2Z5oj4Y1E01kMJCWe840VItBlYMPT/view?usp=sharing)
+5. ![Uploading](https://drive.google.com/file/d/1_buvqC7SqtBEZiNhjrTaIV9gGV9_VdYM/view?usp=sharing)
 
 ---
 
