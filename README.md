@@ -1,11 +1,11 @@
 # auroravault_info
 
 
-AuroraVault: A Secure and Efficient Photo Storage Platform - www.auroravault.com
+# AuroraVault: A Secure and Efficient Photo Storage Platform - www.auroravault.com
 
 Welcome to AuroraVault, a platform designed to help users securely store and manage their memories in the form of photos. This README outlines the services and architecture used in the application, highlighting the scalability, reliability, and performance optimization strategies employed.
 
-Overview
+##Overview
 
 AuroraVault is a cloud-based photo storage platform designed to:
 	•	Store and organize user photos securely.
