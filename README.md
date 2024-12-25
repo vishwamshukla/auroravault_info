@@ -25,7 +25,7 @@ AuroraVault is a cloud-based photo storage platform designed to:
 ---
 
 ## Architecture
-![AuroraVault Architecture](link-to-architecture-diagram.png)
+![AuroraVault Architecture]()
 
 ---
 
@@ -39,22 +39,26 @@ AuroraVault is a cloud-based photo storage platform designed to:
 - **Amazon EventBridge**: Event-driven architecture.
 
 ---
-Frontend Tools
-	1.	React Native with Expo:
-	•	Cross-platform mobile application development.
-	•	Enables seamless photo management on iOS and Android.
-	2.	AsyncStorage:
-	•	Caches user photos locally for quick access.
-	•	Maintains a pending fetch list for retries.
-	3.	Axios:
-	•	Handles API communication for image upload and retrieval.
+## Frontend Tools
+1. **React Native with Expo**
+   - Cross-platform mobile application development.
+   - Enables seamless photo management on iOS and Android.
 
-Future Enhancements
-	•	End-to-End Encryption: Encrypting photos before upload for added security.
-	•	Family Sharing: Allow family members to collaboratively manage shared albums.
-	•	AI Tagging: Automatically tag photos with events, locations, and people.
-	•	Global Reach: Multi-region S3 buckets and DynamoDB Global Tables for reduced latency.
+2. **AsyncStorage**
+   - Caches user photos locally for quick access.
+   - Maintains a pending fetch list for retries.
 
-Contact
+3. **Axios**
+   - Handles API communication for image upload and retrieval.
+
+---
+
+## Future Enhancements
+- **End-to-End Encryption**: Encrypting photos before upload for added security.
+- **Family Sharing**: Allow family members to collaboratively manage shared albums.
+- **AI Tagging**: Automatically tag photos with events, locations, and people.
+- **Global Reach**: Multi-region S3 buckets and DynamoDB Global Tables for reduced latency.
+
+##Contact
 
 For inquiries, reach out at shuklavishwam111@gmail.com
