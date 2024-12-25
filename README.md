@@ -30,27 +30,20 @@ AuroraVault is a cloud-based photo storage platform designed to:
 ---
 ## Prototype Screens
 
-Below are the key screens of the AuroraVault application. Images have been resized for better readability on smaller displays.
-
 1. ### Login
-   ![Login](./images/login.PNG)
-   **Dimensions**: 400px width x auto height
+   <img src="./images/login.PNG" alt="Login" width="400">
 
 2. ### Sign Up
-   ![Sign Up](./images/signup.PNG)
-   **Dimensions**: 400px width x auto height
+   <img src="./images/signup.PNG" alt="Sign Up" width="400">
 
 3. ### Reset Password
-   ![Reset Password](./images/forgot_pass.PNG)
-   **Dimensions**: 400px width x auto height
+   <img src="./images/forgot_pass.PNG" alt="Reset Password" width="400">
 
 4. ### Home Page
-   ![Home Page](./images/home_page.PNG)
-   **Dimensions**: 400px width x auto height
+   <img src="./images/home_page.PNG" alt="Home Page" width="400">
 
 5. ### Uploading
-   ![Uploading](./images/uploading.PNG)
-   **Dimensions**: 400px width x auto height
+   <img src="./images/uploading.PNG" alt="Uploading" width="400">
 
 ---
 
