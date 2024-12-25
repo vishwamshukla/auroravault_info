@@ -5,12 +5,12 @@
 
 Welcome to AuroraVault, a platform designed to help users securely store and manage their memories in the form of photos. This README outlines the services and architecture used in the application, highlighting the scalability, reliability, and performance optimization strategies employed.
 
-##Overview
+#Overview
 
 AuroraVault is a cloud-based photo storage platform designed to:
-	•	Store and organize user photos securely.
-	•	Provide scalable solutions for metadata storage, image uploads, and retrieval.
-	•	Offer a seamless and efficient experience for both individual users and families.
+Store and organize user photos securely.
+Provide scalable solutions for metadata storage, image uploads, and retrieval.
+Offer a seamless and efficient experience for both individual users and families.
 
 Features
 	•	Photo Storage: Upload, store, and retrieve photos in S3 buckets.
