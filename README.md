@@ -89,6 +89,8 @@ Load testing was done on 10k+ Concurrent users and the system scaled beatuficall
 - **AI Tagging**: Automatically tag photos with events, locations, and people.
 - **Global Reach**: Multi-region S3 buckets and DynamoDB Global Tables for reduced latency.
 
+---
+
 ##Contact
 
 For inquiries, reach out at shuklavishwam111@gmail.com
