@@ -49,12 +49,18 @@ AuroraVault is a cloud-based photo storage platform designed to:
 
 ## Services Used
 ### AWS Services
-- **Amazon S3**: Photo storage with presigned URLs.
-- **AWS DynamoDB**: Metadata storage with optimized partitioning.
-- **AWS Lambda**: Serverless processing for metadata, uploads, and notifications.
-- **Amazon SQS**: Queue for scalable metadata processing.
-- **AWS SES**: Email notifications.
-- **Amazon EventBridge**: Event-driven architecture.
+- **Amazon S3**: Photo storage with presigned URLs for secure and efficient uploads.
+- **AWS DynamoDB**: Metadata storage with optimized partitioning for scalability and fast retrieval.
+- **AWS Lambda**: Serverless compute for processing metadata, image uploads, and sending notifications.
+- **Amazon SQS**: Queue for scalable metadata processing to handle high concurrency.
+- **AWS SES**: Email notifications for user communication, including welcome emails.
+- **Amazon EventBridge**: Event-driven architecture to route events across microservices.
+- **Amazon API Gateway**: REST API for secure user requests, presigned URL generation, and image retrieval.
+- **Amazon Cognito**: User authentication and authorization for secure platform access.
+- **AWS IAM**: Fine-grained access control for AWS resource security.
+- **Amazon CloudWatch**: Monitoring and logging for error tracking and system performance.
+- **Amazon SageMaker**: Potential for AI-powered features like intelligent photo tagging and album creation.
+- **AWS Glue**: Data integration for preprocessing metadata and user analytics.
 
 ---
 ## Frontend Tools
