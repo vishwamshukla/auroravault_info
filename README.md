@@ -24,8 +24,8 @@ AuroraVault is a cloud-based photo storage platform designed to:
 
 ---
 
-## Architecture
-![AuroraVault Architecture]()
+## Architecture (Available soon)
+![WIP]()
 
 ---
 
