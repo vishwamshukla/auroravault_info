@@ -55,6 +55,7 @@ AuroraVault is a cloud-based photo storage platform designed to:
 - **Amazon CloudFront**: Content Delivery Network (CDN) to deliver images efficiently to mobile clients globally.
 - **Amazon SQS**: Queue for scalable metadata processing to handle high concurrency.
 - **AWS SES**: Email notifications for user communication, including welcome emails.
+- **AWS SNS**: Notification management for routing bounce and complaint events and real-time updates across services.
 - **Amazon EventBridge**: Event-driven architecture to route events across microservices.
 - **Amazon API Gateway**: REST API for secure user requests, presigned URL generation, and image retrieval.
 - **Amazon Cognito**: User authentication and authorization for secure platform access.
