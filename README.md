@@ -63,6 +63,7 @@ AuroraVault is a cloud-based photo storage platform designed to:
 - **Amazon CloudWatch**: Monitoring and logging for error tracking and system performance.
 - **Amazon SageMaker**: Potential for AI-powered features like intelligent photo tagging and album creation.
 - **AWS Glue**: Data integration for preprocessing metadata and user analytics.
+- **AWS EC2**: Server based offloading of image compression (JPG, HEIC, PNG) for devices with low resources. 
 
 ---
 ## Frontend Tools
